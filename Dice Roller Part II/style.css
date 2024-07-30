@@ -1,0 +1,39 @@
+#container{
+    font-family: "Ga Maamli", sans-serif;
+    padding-left: 40%;
+    font-size: 2rem;
+   font-weight: 400;
+    width: 1000px;
+    height: 40px;
+    
+}
+button{
+    font-size: 2.5rem;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+    font-family: "Ga Maamli", sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+    cursor:pointer;
+}
+button:hover{
+    background-color: #FFFF00;
+}
+input{
+    width:200px;
+font-size: 2rem;
+text-align: center;
+height: 30px;
+border-radius: 5px;
+
+}
+
+#dieresult{
+    margin: 25px;;
+}
+#dieimg{
+    width: 150px;
+    margin:5px;
+}
